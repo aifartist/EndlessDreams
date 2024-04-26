@@ -12,6 +12,8 @@ or my 6 months old reddit posts.  But I'll never stop looking for ways to keep j
 
 This is the beginning of a project to achieve larger goals.
 
-Open source is down the road given I don't have the resources of a $10 billion company like Midjourney which just announced the long term goal of doing what I've been doing for months.  My one-man show will go into stealth mode till I have a more complete product.  I have two very talented guys that have volunteered to assist me.  I will soon attach a video of me speaking as a real-time video is being generated.  This will show where I'm headed.
+Open source is down the road given I don't have the resources of a $10 billion company like Midjourney which just announced the long term goal of doing what I've been doing for months.  My one-man show will go into stealth mode till I have a more complete product.  I have two very talented guys that have volunteered to assist me.
+
+To know the direction I'm headed watch the twitter video.  Maximize the volume as my voice was a bit low.
 
 
