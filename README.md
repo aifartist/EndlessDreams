@@ -1,7 +1,7 @@
 # EndlessDreams
-Exploring endless real-time interactive dreams
+Explore your endless real-time interactive dreams
 
-## Navigate the Infinite Diversity of Stable Diffusion Models
+## Journey Through the Infinite Diversity of Stable Diffusion Models
 Imagine sitting back in your easy chair dictating your dreams your voice and using commands like zoom in/out, pan left/right/up/down and seeing the results instantly. Imagine being surprised when a famous person appears in your dream and you realize; Oh, I have the TV on in the background and they were just talking about that person. Imagine drawing into the video with noise in real-time and getting iteresting effects. Imagine merging another video stream, family picture, or an openpose animation into your dream as it unfolds and seeing the result immediately.
 
 You might say: Oh, but the video is jittery. Of course, with other excellent video generators you can generate a very smooth video that takes 5(?) minutes to get perhaps 10 seconds of someone turning their head or taking a few steps. And, yes, the quality is high. However, EndlessDreams generates continuous variety for hours, days, weeks, ... as you interact with it in real-time. It is a different use case and those that have seen EndlessDreams think it has its niche in this world.
