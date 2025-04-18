@@ -16,8 +16,12 @@ Prior to Oct the dreams of real-time AI video generations were just a fantasy. W
 **Oct 30, 2023**: Deepfakes had been around for awhile. But not real-time generated DeepFakes. Here is a poorly lit crude early demo of mine: [RT DF Demo](https://www.reddit.com/r/StableDiffusion/comments/17kekea/demo_of_realtime15fps_camera_capture_plus_sd/)
 **Nov 5, 2023**: Coined the term [RTSD](https://www.reddit.com/r/StableDiffusion/comments/17ovxqq/rtsd_real_time_stable_diffusion_powered_by_lcm/) and demoed the ability to, in real-time, generate images on the fly as one changed the prompt or other paramaters using sliders. Instant feedback vs making a change, clicking generate and then waiting.
 
+## Convergence
+Soon afterwards all that I've learn about performance and other ideas coalesced in the multimodal experience of EndlessDreams. It has been a bumpy ride.
+
 My Twitter where you can see some older demoes:  https://x.com/Dan50412374/  
 My YouTube channel with my first try at a YouTube demo: https://www.youtube.com/watch?v=irUpybVgdDY  
 
-There are a number of reasons I'm starting with "no license". I'll only mentions this one: I gave a screen share demo of this to a guy that does Hackathons. He recorded my demo, and having not written a line of code of this, he posted it on Linked-in as one of his projects. I got mentioned as a member of his team.  Egads.  
-Enjoy EndlessDreams. It is my fault and my fault alone for sitting on this for so long. If was a breakthrough when I first created it and all I ask is for people to give it a look.
+Enjoy EndlessDreams. It is my fault and my fault alone for sitting on this for so long. It was a breakthrough when I first created it and all I ask is for people to give it a look.
+
+There are a number of reasons I'm starting with "no license". I'll only mentions this one: I gave a screen share demo of this to a guy that does Hackathons. He recorded my demo, and having not written a line of code of this, he posted it on Linked-in as one of his projects. I got mentioned as a member of his team. Egads.  
